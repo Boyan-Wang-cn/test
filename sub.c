@@ -1,13 +1,4 @@
-#include <stdio.h>
-
-int main() {
-    int num1, num2, difference;
-
-    printf("Enter two numbers: ");
-    scanf("%d %d", &num1, &num2);
-
-    difference = num1 - num2;
-    printf("The difference is: %d\n", difference);
-
+#include<stdio.h>
+int main(){
     return 0;
 }
